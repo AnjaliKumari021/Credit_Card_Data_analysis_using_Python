@@ -2,7 +2,9 @@
 ## Overview
 The primary goal of this project is to explore and analyze credit card data to understand the customer spend and repayment behavior in order to effectively produce quality data driven decisions and use that information to cater the individual customer needs. Also personalised promotions could be sent to the customers to increase the revenue of credit card industry.
 
-## Datasets 
+## Data Availability
+The data set comprises of 3 tables.
+
 Customer Acquisition: At the time of card issuing, company maintains the details of customers.
 
 Spend (Transaction data): Credit card spend for each customer
